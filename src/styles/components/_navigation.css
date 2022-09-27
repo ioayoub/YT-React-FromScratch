@@ -1,0 +1,34 @@
+.navigation > ul {
+  display: flex;
+  margin: 30px;
+}
+
+.navigation > ul > a {
+  list-style: none;
+  margin: 0 10px;
+  text-decoration: none;
+  padding: 10px;
+}
+
+
+.navigation > ul > a:hover {
+  background: #61dafb;
+  border-radius: 10px;
+}
+
+.navigation > ul > a:active {
+  background: #61dafb;
+  border-radius: 10px;
+}
+
+.navigation > ul > a:visited {
+  background: #61dafb;
+  border-radius: 10px;
+}
+
+.navigation > ul > a::selection {
+  background: #61dafb;
+  border-radius: 10px;
+}
+
+

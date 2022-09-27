@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "CustomFont";
+  src: url(../assets/fonts/JosefinSans-Medium.ttf);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: CustomFont;
+}
+
+body {
+  background: white;
+  font-family: "CustomFont";
+  /* // @include verticalCenter; */
+}
+
+
